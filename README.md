@@ -1,5 +1,4 @@
 # ECGCircuitDesign
-# Low Noise ECG Front End
 An educational ECG circuit that amplifies and filters mV level heart signals for viewing on an oscilloscope, a USB data card, or an ESP32. This is for learning only, not a medical device.
 
 ## Overview
