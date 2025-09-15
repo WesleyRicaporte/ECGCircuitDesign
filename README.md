@@ -28,9 +28,6 @@ The design uses a differential front end, active high pass and low pass filterin
 Non-inverting high-pass cutoff  
 \( f_{HPF} = \frac{1}{2\pi R_{HPF} C_{HPF}} \)  target 0.3 to 0.7 Hz
 
-Inverting Low low-pass cutoff  
-\( f_{LPF} = \frac{1}{2\pi R_{LPF} C_{LPF}} \)  target 35 to 45 Hz
-
 Inverting Low pass cutoff  
 \( f_{LPF} = \frac{1}{2\pi R_{LPF} C_{LPF}} \)  target 35 to 45 Hz
 
