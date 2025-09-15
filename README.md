@@ -62,6 +62,15 @@ Non inverting gain stage
 3. **Electrode test**  
    - Attach RA and LA to the wrists or upper chest, RL to the leg  
    - Timebase 200 ms per division, vertical 0.5 V per division at the output  
+## Demo
 
+[ Watch the demo video](WorkingECG.mov)
+
+<!-- Inline player. Works best in Safari for MOV files -->
+<video src="WorkingECG.mov" width="720" controls muted></video>
+
+## LTspice Design
+
+![LTspice schematic](Ecgltspice.png)
 
 
