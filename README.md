@@ -34,7 +34,7 @@ Inverting Low pass cutoff
 Non inverting gain stage
 \( A_v = 1 + \frac{R_f}{R_g} \)
 
-## Bill of materials (short)
+## Bill of materials 
 - ADA623 op amp
 - Resistors: 1 percent, values per schematic
 - Capacitors for filters
