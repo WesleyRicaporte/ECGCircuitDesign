@@ -1,5 +1,5 @@
 # ECGCircuitDesign
-An educational ECG circuit that amplifies and filters mV level heart signals for viewing on an oscilloscope, a USB data card, or an ESP32. This is for learning only, not a medical device.
+An educational ECG circuit that amplifies and filters mV level heart signals for viewing on an oscilloscope.
 
 ## Overview
 The design uses a differential front end, active high pass and low pass filtering, and a final gain stage to deliver a clean QRS complex.
